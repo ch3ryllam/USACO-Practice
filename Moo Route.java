@@ -186,7 +186,7 @@ public class Moo Route {
     }
 
 	public static void main(String[] args) {
-        Prob3 p = new Prob3();
-        p.runTestCases ();
+        Moo Route moo = new  Moo Route();
+        moo.runTestCases ();
     }
 }
