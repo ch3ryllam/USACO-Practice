@@ -2,7 +2,7 @@
 //Problem 3. Moo Route II
 
 import java.util.*;
-public class Moo Route {
+public class MooRoute {
     int N;
     int E;
     Node[] nArr;
@@ -186,7 +186,7 @@ public class Moo Route {
     }
 
 	public static void main(String[] args) {
-        Moo Route moo = new  Moo Route();
+        MooRoute moo = new  MooRoute();
         moo.runTestCases ();
     }
 }
